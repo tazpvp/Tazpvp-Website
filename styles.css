@@ -25,6 +25,10 @@
     li a:hover {
       background-color: #111;
     }
+    navlogo {
+      width: 2vw;
+      height: auto;
+    }
 
     body {
       background-color: green;
