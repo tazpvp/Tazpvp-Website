@@ -1,2 +1,2 @@
 # website
-amwebsite foremt apzp
+awebsite foremt apzp
